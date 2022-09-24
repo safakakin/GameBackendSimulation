@@ -1,0 +1,17 @@
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/GameSimulation
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/GameSimulation.deps.json
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/GameSimulation.runtimeconfig.json
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/GameSimulation.dll
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/GameSimulation.pdb
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/bin/Debug/net6.0/TCKimlikNoDogrulama.Core.dll
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.csproj.AssemblyReference.cache
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.AssemblyInfoInputs.cache
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.AssemblyInfo.cs
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.csproj.CoreCompileInputs.cache
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.csproj.CopyComplete
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.dll
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/refint/GameSimulation.dll
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.pdb
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/GameSimulation.genruntimeconfig.cache
+/Users/mariami/Projects/GameBackendSimulation/GameSimulation/obj/Debug/net6.0/ref/GameSimulation.dll

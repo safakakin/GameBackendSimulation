@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TCKimlikNoDogrulama.Core" />
+    <None Remove="Abstract\" />
+    <None Remove="Adapter\" />
+    <None Remove="Entity\" />
+    <None Remove="Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="TCKimlikNoDogrulama.Core" Version="1.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Adapter\" />
+    <Folder Include="Entity\" />
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+</Project>

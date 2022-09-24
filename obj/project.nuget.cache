@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uG06QQCowXHB6tf8nym/vH2TXr+2OSnj6lrKumcuUZ77/T3EOWLDan+satvJingG3QcDnByhMvYPPyspkm+lOQ==",
+  "success": true,
+  "projectFilePath": "/Users/mariami/Projects/GameSimulation/GameSimulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariami/.nuget/packages/tckimliknodogrulama.core/1.0.2/tckimliknodogrulama.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

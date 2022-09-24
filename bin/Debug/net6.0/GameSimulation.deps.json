@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GameSimulation/1.0.0": {
+        "dependencies": {
+          "TCKimlikNoDogrulama.Core": "1.0.2"
+        },
+        "runtime": {
+          "GameSimulation.dll": {}
+        }
+      },
+      "TCKimlikNoDogrulama.Core/1.0.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/TCKimlikNoDogrulama.Core.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCKimlikNoDogrulama.Core/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kv+0eiaQfFPhk5xJ8HViw122ebVs/SP4CtR8NapM0zpGNgeZ7FYubpgP+jMUy6+fuLZ1Z7lDm9AgTq0UFXYYbw==",
+      "path": "tckimliknodogrulama.core/1.0.2",
+      "hashPath": "tckimliknodogrulama.core.1.0.2.nupkg.sha512"
+    }
+  }
+}
