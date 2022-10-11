@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uG06QQCowXHB6tf8nym/vH2TXr+2OSnj6lrKumcuUZ77/T3EOWLDan+satvJingG3QcDnByhMvYPPyspkm+lOQ==",
+  "dgSpecHash": "6MWwS5NaSf/BO6Dy1ootk/NsWoRaMDW+9mWlXy4Zk72Hry61qYkJa2upx3pNvz/spZ4Ykoy54UBb7njgJ/zFJg==",
   "success": true,
-  "projectFilePath": "/Users/mariami/Projects/GameSimulation/GameSimulation.csproj",
+  "projectFilePath": "C:\\Users\\safak.akin\\Source\\Repos\\GameBackendSimulation\\GameSimulation.csproj",
   "expectedPackageFiles": [
-    "/Users/mariami/.nuget/packages/tckimliknodogrulama.core/1.0.2/tckimliknodogrulama.core.1.0.2.nupkg.sha512"
+    "C:\\Users\\safak.akin\\.nuget\\packages\\tckimliknodogrulama.core\\1.0.2\\tckimliknodogrulama.core.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }

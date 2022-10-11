@@ -10,7 +10,7 @@ internal class Program
 
         CampaignManager campaignManager = new CampaignManager();
 
-        Gamer gamer1 = new Gamer() { GamerId = 1, FirstName = "Şafak", LastName = "Akın", DateYear = 1992, IdNo = 55321549868 };
+        Gamer gamer1 = new Gamer() { GamerId = 1, FirstName = "Şafak", LastName = "Akın", DateYear = 1992, IdNo = 12345678910 };
 
         gamerManager.Add(gamer1);
 

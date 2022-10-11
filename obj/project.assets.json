@@ -33,25 +33,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/mariami/.nuget/packages/": {}
+    "C:\\Users\\safak.akin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariami/Projects/GameSimulation/GameSimulation.csproj",
+      "projectUniqueName": "C:\\Users\\safak.akin\\Source\\Repos\\GameBackendSimulation\\GameSimulation.csproj",
       "projectName": "GameSimulation",
-      "projectPath": "/Users/mariami/Projects/GameSimulation/GameSimulation.csproj",
-      "packagesPath": "/Users/mariami/.nuget/packages/",
-      "outputPath": "/Users/mariami/Projects/GameSimulation/obj/",
+      "projectPath": "C:\\Users\\safak.akin\\Source\\Repos\\GameBackendSimulation\\GameSimulation.csproj",
+      "packagesPath": "C:\\Users\\safak.akin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\safak.akin\\Source\\Repos\\GameBackendSimulation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/mariami/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\safak.akin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -91,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
